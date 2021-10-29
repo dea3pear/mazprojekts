@@ -13,3 +13,4 @@
 	- SFML library
 ## Izmantotie avoti
 	- [SFML dokumentācija](https://www.sfml-dev.org/style.php)
+	- [Valūtu kursi](https://www.bank.lv/statistika/valutu-kursi/aktualie)
